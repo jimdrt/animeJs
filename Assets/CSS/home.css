@@ -1,0 +1,18 @@
+.container{
+    text-align: center;
+}
+
+h1{
+    display: inline-flex;
+    margin-top: 200px;
+    color: #333;
+    font-weight: 100;
+    letter-spacing: 10px;
+    font-size: 190px;
+    cursor: pointer;
+    background-color: orange;
+}
+
+h1 span {
+    pointer-events: none;
+}
